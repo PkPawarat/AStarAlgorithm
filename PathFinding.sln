@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathFinding", "PathFinding\PathFinding.csproj", "{254DD710-1BBA-49FE-B746-2C57B32B05EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{254DD710-1BBA-49FE-B746-2C57B32B05EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254DD710-1BBA-49FE-B746-2C57B32B05EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254DD710-1BBA-49FE-B746-2C57B32B05EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254DD710-1BBA-49FE-B746-2C57B32B05EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A4244D7-FA08-4F09-B5BB-93EDB1DCAD3B}
+	EndGlobalSection
+EndGlobal
